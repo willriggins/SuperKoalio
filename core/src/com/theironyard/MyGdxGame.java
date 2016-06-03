@@ -62,7 +62,6 @@ public class MyGdxGame extends ApplicationAdapter {
 		}
 		else {
 			batch.draw(img, x + WIDTH*3, y, WIDTH * -3, HEIGHT * 3);
-
 		}
 		batch.end();
 	}
